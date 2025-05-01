@@ -49,6 +49,11 @@ python retinaface_detect.py
 
 This will read an image (`test.jpg`), detect faces, and display the image with rectangles drawn around the detected faces.
 
+3. Run the face detection reatime on camera:
+
+```bash
+python realtime.py
+```
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
